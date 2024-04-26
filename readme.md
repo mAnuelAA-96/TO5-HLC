@@ -31,19 +31,23 @@ El perímetro se calcula en el método calcularPerimetro(). Primero comprueba qu
 
 Por último, el método borrarMarcas() simplemente borra los puntos almacenados en la variable polylineOptions y las marcas del mapa.
 
+
 CAPTURAS DE LA APLICACIÓN
 
 - Estado inicial
 
 ![Estado inicial](https://manuelflo.com/images/to5-hlc/estado-inicial.png)
 
+
 - Coordenadas de origen
 
 ![Coordenadas de origen](https://manuelflo.com/images/to5-hlc/punto-origen.png)
 
+
 - Cálculo del área
   
 ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
+
   
 - Cálculo del perímetro
   
