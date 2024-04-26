@@ -48,6 +48,9 @@ CAPTURAS DE LA APLICACIÓN
 
 - Cálculo del área
   
+<div style="text-align:center">
+    <img src="https://manuelflo.com/images/to5-hlc/calculo-area.png" alt="Error imagen estado inicial">
+</div>
   ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
   
 - Cálculo del perímetro
