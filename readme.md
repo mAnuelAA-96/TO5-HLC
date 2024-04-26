@@ -35,11 +35,6 @@ CAPTURAS DE LA APLICACIÓN
 
 - Estado inicial
 
-<div style="text-align:center">
-    <img src="https://manuelflo.com/images/to5-hlc/estado-inicial.png" alt="Error imagen estado inicial">
-</div>
-
-
 ![Estado inicial](https://manuelflo.com/images/to5-hlc/estado-inicial.png)
 
 - Coordenadas de origen
@@ -48,10 +43,7 @@ CAPTURAS DE LA APLICACIÓN
 
 - Cálculo del área
   
-<div style="text-align:center">
-    <img src="https://manuelflo.com/images/to5-hlc/calculo-area.png" alt="Error imagen estado inicial">
-</div>
-  ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
+![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
   
 - Cálculo del perímetro
   
