@@ -30,3 +30,21 @@ Por último necesitamos las funciones correspondientes para calcular el área, e
 El perímetro se calcula en el método calcularPerimetro(). Primero comprueba que se hayan seleccionado al menos 2 puntos, de lo contrario muestra un mensaje indicando el error. Al igual que en el método para calcular el área, se utiliza la clase SphericalUtil con el método computeLength(), pasándole los puntos de la variable polylineOptions. En este caso he optado por dividir el resultado entre 2, ya que al utilizar el método cierra la zona en el punto inicial al igual que el método anterior y calcularía el perímetro de la "misma" línea dos veces. He decidido dividirlo para dar como resultado simplemente el tramo marcado por el usuario.
 
 Por último, el método borrarMarcas() simplemente borra los puntos almacenados en la variable polylineOptions y las marcas del mapa.
+
+CAPTURAS DE LA APLICACIÓN
+
+- Estado inicial
+
+![Estado inicial](https://manuelflo.com/images/to5-hlc/estado-inicial.png)
+
+- Coordenadas de origen
+
+![Coordenadas de origen](https://manuelflo.com/images/to5-hlc/punto-origen.png)
+
+- Cálculo del área
+  
+  ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
+  
+- Cálculo del perímetro
+  
+![Cálculo del perímetro](https://manuelflo.com/images/to5-hlc/calculo-perimetro.png)
