@@ -47,7 +47,7 @@ CAPTURAS DE LA APLICACIÓN
 - Cálculo del área
   
 ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
-https://manuelflo.com/images/to5-hlc/calculo-area.png
+Pulsar enlace si da error: https://manuelflo.com/images/to5-hlc/calculo-area.png
 
   
 - Cálculo del perímetro
