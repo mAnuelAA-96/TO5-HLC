@@ -44,10 +44,10 @@ CAPTURAS DE LA APLICACIÓN
 ![Coordenadas de origen](https://manuelflo.com/images/to5-hlc/punto-origen.png)
 
 
-- Cálculo del área
+- Cálculo del área (pulsar enlace si da error)
+https://manuelflo.com/images/to5-hlc/calculo-area.png
   
 ![Cálculo del área](https://manuelflo.com/images/to5-hlc/calculo-area.png)
-Pulsar enlace si da error: https://manuelflo.com/images/to5-hlc/calculo-area.png
 
   
 - Cálculo del perímetro
