@@ -35,6 +35,11 @@ CAPTURAS DE LA APLICACIÓN
 
 - Estado inicial
 
+<div style="text-align:center">
+    ![Estado inicial](https://manuelflo.com/images/to5-hlc/estado-inicial.png)
+</div>
+
+
 ![Estado inicial](https://manuelflo.com/images/to5-hlc/estado-inicial.png)
 
 - Coordenadas de origen
