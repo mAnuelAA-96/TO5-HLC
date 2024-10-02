@@ -1,6 +1,6 @@
 TO5 - HLC
 
-Eliminada API KEY para Google Maps. Para la reproducción de este proyecto es necesario introducir una nueva Key para el funcionamiento de los mapas.
+Eliminada API KEY para Google Maps por motivos de seguridad. Para la reproducción de este proyecto es necesario introducir una nueva Key para el funcionamiento de los mapas.
 
 Lo primero que debemos hacer es preparar el proyecto para que se puedan utilizar los mapas. Para ello, añadimos las dependencias necesarias para utilizar los mapas de Google y sus útiles. Son las siguientes:
 
